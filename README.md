@@ -1,11 +1,27 @@
-# Sample Snack app
+# Weather App Project with React Native and Expo
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![enter image description here](https://i.ibb.co/Cwkm988/Capture-d-cran-2023-09-18-192339.png)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Project Description
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+The weather application developed with React Native and Expo is an intuitive and user-friendly app that provides accurate and up-to-date weather information. It allows users to know the current weather and upcoming forecasts for their location or other specified locations.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+##  Main Objectives
+
+1.  **Intuitive User Interface:** Design an intuitive and visually appealing user interface that allows users to navigate easily and quickly access weather information.
+    
+2.  **Real-time Weather Data:** Integrate weather APIs to retrieve real-time weather data, including temperature, humidity, wind speed, and more.
+    
+3.  **Forecasts:** Display short-term and long-term weather forecasts so that users can plan their activities accordingly.
+
+## Technologies Used
+-   **React Native:** Utilizing the React Native library for application development, providing a smooth and responsive user experience on both iOS and Android platforms.
+    
+-   **Expo:** Using Expo, a mobile app development platform that simplifies the process of creating and deploying React Native apps.
+    
+-   **OpenWeather:** OpenWeatherMap (OpenWeather) is a popular online platform that provides weather data and related services through an API (Application Programming Interface). The OpenWeather API allows developers to access various weather-related information, including current weather conditions, forecasts, historical data, and more.
+    
+-   **JavaScript (ES6):** Using modern JavaScript (ES6) to write efficient and maintainable code.
+    
+-   **Styling:** Utilizing flexible and adaptive styling to ensure an attractive and consistent appearance across various devices.
